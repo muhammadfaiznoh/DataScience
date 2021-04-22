@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Science Project
 
 You can use the [editor on GitHub](https://github.com/muhammadfaiznoh/muhammadfaiznoh.github.io-DataScience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
