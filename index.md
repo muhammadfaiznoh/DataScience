@@ -1,39 +1,41 @@
 # Data Science Project By Muhammad Faiz Noh
-This page is my portfolio for data science projects. The purpose of this portfolio is to present my skill in Data Science, Python and SQL. 
-I have technical background in PHP programming and I am looking forward to change my carrer to data driven roles. This is to prepare myself for Industry Revolution 4.
+This page is my portfolio for data science projects. 
+The purpose of this portfolio is to present my skill in Data Science, Python and SQL. 
+I have technical background in PHP programming and I am looking forward to change my carrer to data driven roles. 
+This is to prepare myself for Industry Revolution 4.
 If I am the right candidate to fill the position, please contact me for futher discussion. 
 
 
-Email: muhammadfaiznoh@gmail.com
-LinkedIn: https://www.linkedin.com/in/muhammadfaiznoh
-Website: https://muhammadfaiznoh.github.io/DataScience/
+- Email: muhammadfaiznoh@gmail.com
+- LinkedIn: [LinedIn] (https://www.linkedin.com/in/muhammadfaiznoh)
+- Website: [Portfolio] (https://muhammadfaiznoh.github.io/DataScience/)
 
 
 ## 1) Medical Cost Analysis
 
 This is my Exploratory Data Analysis on medical cost dataset. Analyze by using Data Science OSEMN framework.
 
-`O`btain data: from Kaggle.
-`S`crub data / clean data: modify value from string to binary
-`E`xplore data: with Pandas DataFrame, Seaborn and Matplotlib visualization.
-`M`odelling: Supervised Learning Algorithms: Linear Regression & Unsupervised Learning Algorithms: K-Means Clustering
-i`N`terpret: summary of findings with visualization.
+- `O`btain data: from Kaggle.
+- `S`crub data / clean data: modify value from string to binary
+- `E`xplore data: with Pandas DataFrame, Seaborn and Matplotlib visualization.
+- `M`odelling: Supervised Learning Algorithms: Linear Regression & Unsupervised Learning Algorithms: K-Means Clustering
+- i`N`terpret: summary of findings with visualization.
 
-Project link: [Medical Cost Analysis](https://github.com/muhammadfaiznoh/DataScience/medical-cost-analysis).
-Dashboard link: [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4).
+1. Project link: [Medical Cost Analysis](https://github.com/muhammadfaiznoh/medical-cost-analysis).
+2. Dashboard link: [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4).
 
-## 1) Chicago Crime Visualization
+## 2) Chicago Crime Visualization
 
-This is my Exploratory Data Analysis on medical cost dataset..
+This is my Exploratory Data Analysis on medical cost dataset.
 
-Obtain data: from [Chicago crime data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data).
-What happened inside the Colab file?
+1. Obtain data: from [Chicago crime data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data).
+2. What happened inside the Colab file?
 
-Retrieve Chicago Crime Data from 2018 - 2020 compress zipped file from Google Drive.
-Download and unzip the file then read with Pandas.
-Rename the column name of the DataFrame.
-Convert string DateTime from CSV into DateTime data type.
-Load the content of DataFrame into BigQuery
+- Retrieve Chicago Crime Data from 2018 - 2020 compress zipped file from Google Drive.
+- Download and unzip the file then read with Pandas.
+- Rename the column name of the DataFrame.
+- Convert string DateTime from CSV into DateTime data type.
+- Load the content of DataFrame into BigQuery
 
 SQL script used to get month from date and remove the bracket from location
 ```
