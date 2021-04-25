@@ -9,13 +9,14 @@ If I am the right candidate to fill the position, please contact me for futher d
 
 
 - Email: muhammadfaiznoh@gmail.com
-- LinkedIn: [LinedIn](https://www.linkedin.com/in/muhammadfaiznoh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammadfaiznoh)
 - Website: [Portfolio](https://muhammadfaiznoh.github.io/DataScience/)
 
 
 ## 1) Medical Cost Analysis
 
-This is my Exploratory Data Analysis on medical cost dataset. Analyze by using Data Science OSEMN framework.
+This is my Exploratory Data Analysis on medical cost dataset. 
+Analyze by using Data Science OSEMN framework.
 
 - `O`btain data: from Kaggle.
 - `S`crub data / clean data: modify value from string to binary
