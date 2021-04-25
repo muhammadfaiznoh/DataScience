@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://github.com/muhammadfaiznoh/DataScience/tree/medical-cost-analysis).
+For more details see [GitHub Flavored Markdown](https://github.com/muhammadfaiznoh/DataScience/medical-cost-analysis).
 
 ### Jekyll Themes
 
