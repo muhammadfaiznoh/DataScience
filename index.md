@@ -24,7 +24,7 @@ Analyze by using Data Science OSEMN framework.
 - `M`odelling: Supervised Learning Algorithms: Linear Regression & Unsupervised Learning Algorithms: K-Means Clustering
 - i`N`terpret: summary of findings with visualization.
 
-![image](https://github.com/muhammadfaiznoh/DataScience/blob/gh-pages/scatterplot.PNG)
+![image](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/gh-pages/scatterplot.PNG)
 
 1. Project link: [Medical Cost Analysis](https://github.com/muhammadfaiznoh/medical-cost-analysis).
 2. Dashboard link: [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4).
@@ -42,7 +42,7 @@ This is my Exploratory Data Analysis on medical cost dataset.
 - Convert string DateTime from CSV into DateTime data type.
 - Load the content of DataFrame into BigQuery
 
-<!-- ![image2](https://github.com/muhammadfaiznoh/DataScience/blob/gh-pages/crimehour.PNG) -->
+![image2](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/blob/gh-pages/crimehour.PNG)
 
 SQL script used to get month from date and remove the bracket from location
 ```
