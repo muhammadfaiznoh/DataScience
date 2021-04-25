@@ -1,8 +1,10 @@
 # Data Science Project By Muhammad Faiz Noh
 This page is my portfolio for data science projects. 
 The purpose of this portfolio is to present my skill in Data Science, Python and SQL. 
+
 I have technical background in PHP programming and I am looking forward to change my carrer to data driven roles. 
 This is to prepare myself for Industry Revolution 4.
+
 If I am the right candidate to fill the position, please contact me for futher discussion. 
 
 
