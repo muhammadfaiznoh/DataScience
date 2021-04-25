@@ -9,7 +9,7 @@ If I am the right candidate to fill the position, please contact me for futher d
 
 
 - Email: muhammadfaiznoh@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammadfaiznoh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-faiz-605291107/)
 - Website: [Portfolio](https://muhammadfaiznoh.github.io/DataScience/)
 
 
