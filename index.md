@@ -24,7 +24,7 @@ Analyze by using Data Science OSEMN framework.
 - `M`odelling: Supervised Learning Algorithms: Linear Regression & Unsupervised Learning Algorithms: K-Means Clustering
 - i`N`terpret: summary of findings with visualization.
 
-![image](https://github.com/muhammadfaiznoh/DataScience/blob/gh-pages/scatterplot.PNG?raw=true)
+![image](https://github.com/muhammadfaiznoh/DataScience/blob/gh-pages/scatterplot.PNG)
 
 1. Project link: [Medical Cost Analysis](https://github.com/muhammadfaiznoh/medical-cost-analysis).
 2. Dashboard link: [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4).
