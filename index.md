@@ -42,7 +42,7 @@ This is my Exploratory Data Analysis on medical cost dataset.
 - Convert string DateTime from CSV into DateTime data type.
 - Load the content of DataFrame into BigQuery
 
-![image](https://github.com/muhammadfaiznoh/DataScience/blob/gh-pages/crimehour.PNG)
+![image2](https://github.com/muhammadfaiznoh/DataScience/blob/gh-pages/crimehour.PNG)
 
 SQL script used to get month from date and remove the bracket from location
 ```
