@@ -26,7 +26,7 @@ Analyze by using Data Science OSEMN framework.
 
 ![image](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/gh-pages/scatterplot.PNG)
 
-1. Project link: [Medical Cost Analysis](https://github.com/muhammadfaiznoh/medical-cost-analysis).
+1. Project link: [Medical Cost Analysis](https://muhammadfaiznoh.github.io/medical-cost-analysis/).
 2. Dashboard link: [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4).
 
 ## 2) Chicago Crime Visualization
