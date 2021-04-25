@@ -9,8 +9,8 @@ If I am the right candidate to fill the position, please contact me for futher d
 
 
 - Email: muhammadfaiznoh@gmail.com
-- LinkedIn: [LinedIn] (https://www.linkedin.com/in/muhammadfaiznoh)
-- Website: [Portfolio] (https://muhammadfaiznoh.github.io/DataScience/)
+- LinkedIn: [LinedIn](https://www.linkedin.com/in/muhammadfaiznoh)
+- Website: [Portfolio](https://muhammadfaiznoh.github.io/DataScience/)
 
 
 ## 1) Medical Cost Analysis
