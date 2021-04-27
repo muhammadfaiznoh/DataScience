@@ -27,7 +27,7 @@ Analyze by using Data Science OSEMN framework.
 ![image](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/gh-pages/scatterplot.PNG)
 
 1. Project link: [Medical Cost Analysis](https://muhammadfaiznoh.github.io/medical-cost-analysis/).
-2. Dashboard link: [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4).
+2. Dashboard link (Using Google Data Studio) : [Medical Cost Visualization](https://datastudio.google.com/reporting/608ec992-d706-4945-9895-2eefae7b79c4) 
 
 ## 2) Chicago Crime Visualization
 
@@ -42,6 +42,7 @@ This is my Exploratory Data Analysis on medical cost dataset.
 - Convert string DateTime from CSV into DateTime data type.
 - Load the content of DataFrame into BigQuery
 
+1. Dashboard link (Using Google Data Studio) : [Chicago Crime Report](https://datastudio.google.com/reporting/9298e282-0462-469e-b744-40a44b26db42) 
 ![image2](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/gh-pages/crimehour.PNG)
 
 SQL script used to get month from date and remove the bracket from location
