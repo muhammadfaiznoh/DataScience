@@ -43,6 +43,7 @@ This is my Exploratory Data Analysis on medical cost dataset.
 - Load the content of DataFrame into BigQuery
 
 1. Dashboard link (Using Google Data Studio) : [Chicago Crime Report](https://datastudio.google.com/reporting/9298e282-0462-469e-b744-40a44b26db42) 
+
 ![image2](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/gh-pages/crimehour.PNG)
 
 SQL script used to get month from date and remove the bracket from location
