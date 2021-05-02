@@ -42,7 +42,7 @@ This is my Exploratory Data Analysis on medical cost dataset.
 - Convert string DateTime from CSV into DateTime data type.
 - Load the content of DataFrame into BigQuery
 
-1. Dashboard link (Using Google Data Studio) : [Chicago Crime Report](https://datastudio.google.com/reporting/9298e282-0462-469e-b744-40a44b26db42) 
+3. Dashboard link (Using Google Data Studio) : [Chicago Crime Report](https://datastudio.google.com/reporting/9298e282-0462-469e-b744-40a44b26db42) 
 
 ![image2](https://raw.githubusercontent.com/muhammadfaiznoh/DataScience/gh-pages/crimehour.PNG)
 
@@ -87,6 +87,25 @@ FROM (
   GROUP BY
     day )
 ```
+
+## 3) Hotel Review Sentiment Analysis
+
+Applying Sentiment Analysis into Hotel Review
+
+- Prepare Sentiment Dictionary using OpinionFinder
+- Visualize the rating into a bar chart and words from review into WordCloud
+- Create a function that consist tokenization, sentiment caculation and group the token.
+- Visualize the positive words into Word Cloud
+- Visualize the negative words into Word Cloud
+- Calculate sentiment for each word from review
+- Visualize the sentiment of each word into bar chart
+
+
+
+![image](https://raw.githubusercontent.com/muhammadfaiznoh/hotel_sentiment_analysis/main/newplot.png)
+
+1. Project link: [Hotel Review Sentiment Analysis](https://muhammadfaiznoh.github.io/hotel_sentiment_analysis/).
+
 <!-- Dashboard link: [Chicago Crime Visualization](https://datastudio.google.com/reporting/9298e282-0462-469e-b744-40a44b26db42).
 ```markdown
 Syntax highlighted code block
