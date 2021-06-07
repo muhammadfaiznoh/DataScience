@@ -34,7 +34,7 @@ Analyze by using Data Science OSEMN framework.
 This is my Exploratory Data Analysis on medical cost dataset.
 
 1. Obtain data: from [Chicago crime data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data).
-2. What happened inside the Colab file?
+2. What happened inside the Colab file? (https://muhammadfaiznoh.github.io/chicago-crime-dashboard/)
 
 - Retrieve Chicago Crime Data from 2018 - 2020 compress zipped file from Google Drive.
 - Download and unzip the file then read with Pandas.
